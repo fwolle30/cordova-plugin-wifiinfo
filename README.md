@@ -1,5 +1,7 @@
 # Cordova WifiInfo Plugin
 
+**⚠️ Stub repository until original fixed**
+
 This plugin allows you to read WiFi network status information from applications developed using PhoneGap/Cordova 3.0 or newer.
 
 **Only works with Android for now** until I figure out how to get this data in Swift.
